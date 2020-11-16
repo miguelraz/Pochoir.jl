@@ -1,4 +1,4 @@
-# Pochoir
+# Pochoir.jl, the sliciest boi
 
 This is an early stages implementation of [Pochoir](https://github.com/Pochoir/Pochoir), the stencil compiler.
 
