@@ -1,0 +1,13 @@
+name = "Pochoir"
+uuid = "d04a5d84-423c-4b21-a0bd-a18e02306202"
+authors = ["miguel raz <miguelraz@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
